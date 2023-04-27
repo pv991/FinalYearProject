@@ -1,0 +1,52 @@
+es6 module based project
+npm installed for green grocer
+1: npm express(node modules added with express by default)
+2: npm color
+3: npm no nodemon(when changes in node server require to kill the server to show change
+	no demon watch the server so dont require to kill server every time)
+	start: npm run server 
+4: npm dot.evn (save creditional from being exposed)
+5: npm mongus provide control when handling monodb
+6:npm morgus show the api requrest in console.
+7:npm jsonwebtoken secure the json string
+find middle ware mean
+7:npm react router (routing functionality )
+8:npm react helmet (seo)
+9:npm axios backend data get,post and update used most in react
+10:npm toastify notification handle
+11:npm i concurrently used to start server and react app with one or same command
+12.npm i cors for origin related error when 2 port work may be same port word for back and front its gives error so to not face that error
+13:npm i react-hot-toast notification alternative
+14:npm i slugify for better seo expierence in url management
+		(slug ex in url:name ex slug automatic fix to name-ex)
+15:npm formidable Formidable is a Node.js module for parsing form data, including multipart/form-data file upload.
+		use for photo upload
+16: npm ant design for designing purpose
+17:npm i braintree payment The Braintree Node library provides integration access to the Braintree Gateway.
+		
+
+
+
+
+
+
+//points
+in register field first get the data than store in variable when
+network req call pass the store value
+
+using contex api alternative of react redux help in
+managin global state 
+props required for managing to go for one state to another
+contex api help to go another state even easily without going to every state like tree
+
+dont forgot to put title in layout
+
+using antd created category finding searchbox
+axios use for netword request
+
+router function -- get receive data 
+			-- post give data
+			--delete delete data
+			--put update the data
+
+when creating hooks need to follow naming convection ex:useName
